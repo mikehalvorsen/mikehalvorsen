@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 425 395"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+  <defs>
+    <linearGradient id="va" gradientUnits="userSpaceOnUse" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9400D3">
+        <animate attributeName="stop-color" values="#9400D3;#4B0082;#0000FF;#00FF00;#FFFF00;#FF7F00;#FF0000;#9400D3"
+          dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FF0000">
+        <animate attributeName="stop-color" values="#FF0000;#FF7F00;#FFFF00;#00FF00;#0000FF;#4B0082;#9400D3;#FF0000"
+          dur="2s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <radialGradient id="tri" cx="50%" cy="50%" r="100%">
+      <stop offset="0%" stop-color="#00FF00">
+        <animate attributeName="stop-color" values="#00FF00;#FFFF00;#FF7F00;#FF0000;#9400D3;#4B0082;#0000FF;#00FF00"
+          dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FF0000">
+        <animate attributeName="stop-color" values="#FF0000;#9400D3;#4B0082;#0000FF;#00FF00;#FFFF00;#FF7F00;#FF0000"
+          dur="3s" repeatCount="indefinite" />
+      </stop>
+    </radialGradient>
+    <radialGradient id="sq" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(4691.91,0,0,4098.2,-1046.13,1088.44)">
+      <stop offset="0" style="stop-color:rgb(255,0,194);stop-opacity:0.63" />
+      <stop offset="0.53" style="stop-color:rgb(205,0,205);stop-opacity:0.71" />
+      <stop offset="1" style="stop-color:rgb(33,0,241);stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1,0,0,1,-109.693,-62.3413)">
+    <g id="va-square" transform="matrix(0.330282,0,0,0.330282,156.592,94.1992)" >
+      <g transform="matrix(0.240083,0,0,0.274826,187.82,201.673)">
+        <path
+          d="M3645.78,-408.371C3645.78,-713.19 3362.49,-960.664 3013.56,-960.664L-413.916,-960.664C-762.846,-960.664 -1046.13,-713.19 -1046.13,-408.371L-1046.13,2585.25C-1046.13,2890.07 -762.846,3137.54 -413.916,3137.54L3013.56,3137.54C3362.49,3137.54 3645.78,2890.07 3645.78,2585.25L3645.78,-408.371Z"
+          style="fill:none;stroke:url(#sq);stroke-width:140px;" 
+          />
+      </g>
+      <g transform="matrix(0.866226,0,0,0.866226,252.077,57.2606)">
+        <path id="va" d="M-220.461,222.523L117.32,799.703L455.102,222.523L792.883,799.703"
+          style="fill:none;stroke:url(#va);stroke-width:145px;stroke-miterlimit:2;" />
+          <animate attributeName="stroke-dashoffset" from="0" to="30" dur="1s" repeatCount="indefinite" />
+      </g>
+      <g id="tri" transform="matrix(0.447515,0,0,0.55516,470.12,327.447)">
+        <path d="M393.465,313.391L655.786,672.099L131.145,672.099L393.465,313.391Z" style="fill:url(#tri);" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,18 +1,15 @@
 # About Mike Halvorsen
 
-![CompanyEgg Animated Logo](https://raw.githubusercontent.com/mikehalvorsen/mikehalvorsen/master/companyegg-animated.svg)
+![Virtual Assets Logo](https://raw.githubusercontent.com/mikehalvorsen/mikehalvorsen/master/virtual-assets.svg)
+# VirtualAssets.com ®
 
-I am the founder of **https://www.CompanyEgg.com**, the world's fastest ad-free business search engine.
-
+I am the Founder of **https://www.VirtualAssets.com**. Virtual Assets represent a profound shift that is reshaping the way we interact, transact, and grow.
 
 ## Current Projects:
-
 To see a list of my current companies and projects, be sure to check out **https://www.mikehalvorsen.com/projects/**
 
-## Also pushing code here:
+## Also ~~pushing~~ code here:
 https://github.com/mikehalvorsen-instacart
-
-
 
 ## Find me on Twitter:
 You can find me on Twitter https://twitter.com/mikehalvorsen
